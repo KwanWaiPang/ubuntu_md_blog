@@ -87,6 +87,13 @@ rosbag play YOUR_DOWNLOADED.bag
 <figcaption>  
 </figcaption>
 </div>
+再次测试CBD_Building_02序列，又是正常的，可以回归原点～～～
+<div align="center">
+  <img src="./2025-01-26 13-38-41 的屏幕截图.png" width="80%" />
+<figcaption>  
+</figcaption>
+</div>
+
 
 
 
