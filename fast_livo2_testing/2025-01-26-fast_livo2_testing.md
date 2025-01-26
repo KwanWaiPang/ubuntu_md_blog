@@ -51,7 +51,7 @@ SET(Sophus_LIBRARIES "/usr/local/lib/libSophus.so")
 ~~~
 
 <div align="center">
-  <img src="./2025-01-26 12-19-37 的屏幕截图.png" width="60%" />
+  <img src="https://kwanwaipang.github.io/ubuntu_md_blog/fast_livo2_testing/2025-01-26 12-19-37 的屏幕截图.png" width="60%" />
 <figcaption>  
 编译成功
 </figcaption>
@@ -70,7 +70,7 @@ rosbag play YOUR_DOWNLOADED.bag
 
 其中对于CBD_Building_02的测试发现有存在比较明显的drift的情况。如下图所示，实验人员应该是试图回到起点的，但是最终的位置与起始的位置差别较大。并且从生成的彩色点云也可以看到柱子的地方有较为明显的偏移。
 <div align="center">
-  <img src="./2025-01-26 12-52-32 的屏幕截图.png" width="80%" />
+  <img src="https://kwanwaipang.github.io/ubuntu_md_blog/fast_livo2_testing/2025-01-26 12-52-32 的屏幕截图.png" width="80%" />
 <figcaption>  
 </figcaption>
 </div>
