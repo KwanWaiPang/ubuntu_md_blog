@@ -89,12 +89,10 @@ rosbag play YOUR_DOWNLOADED.bag
 </div>
 再次测试CBD_Building_02序列，又是正常的，可以回归原点～～～
 <div align="center">
-  <img src="./2025-01-26 13-38-41 的屏幕截图.png" width="80%" />
+  <img src="https://kwanwaipang.github.io/ubuntu_md_blog/fast_livo2_testing/2025-01-26 13-38-41 的屏幕截图.png" width="80%" />
 <figcaption>  
 </figcaption>
 </div>
-
-
 
 
 # 论文解读
