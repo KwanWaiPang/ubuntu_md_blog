@@ -57,6 +57,13 @@ rosbag play YOUR_DOWNLOADED.bag
 效果如下所示：
 
 
+其中对于CBD_Building_02的测试发现有存在比较明显的drift的情况。如下图所示，实验人员应该是试图回到起点的，但是最终的位置与起始的位置差别较大。并且从生成的彩色点云也可以看到柱子的地方有较为明显的偏移。
+<div align="center">
+  <img src="./2025-01-26 12-52-32 的屏幕截图.png" width="80%" />
+<figcaption>  
+</figcaption>
+</div>
+
 
 
 # 论文解读
