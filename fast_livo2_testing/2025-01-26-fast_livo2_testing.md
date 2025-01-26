@@ -54,6 +54,10 @@ rosbag play YOUR_DOWNLOADED.bag
 ~~~
 修改launch文件直接开启的时候播包会方便些，修改代码请见[link](https://github.com/KwanWaiPang/Fast-LIVO2_comment/blob/main/launch/mapping_avia.launch)
 
+效果如下所示：
+
+
+
 
 # 论文解读
 
