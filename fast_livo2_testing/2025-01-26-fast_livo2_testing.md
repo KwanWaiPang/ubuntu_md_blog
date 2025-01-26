@@ -52,6 +52,7 @@ SET(Sophus_LIBRARIES "/usr/local/lib/libSophus.so")
 roslaunch fast_livo mapping_avia.launch
 rosbag play YOUR_DOWNLOADED.bag
 ~~~
+修改launch文件直接开启的时候播包会方便些，修改代码请见[link](https://github.com/KwanWaiPang/Fast-LIVO2_comment/blob/main/launch/mapping_avia.launch)
 
 
 # 论文解读
@@ -60,3 +61,4 @@ rosbag play YOUR_DOWNLOADED.bag
 # 参考资料
 * [FAST-LIVO2 Github](https://github.com/hku-mars/FAST-LIVO2)
 * [paper link](https://arxiv.org/pdf/2408.14035)
+* [代码解读](https://github.com/KwanWaiPang/Fast-LIVO2_comment)
