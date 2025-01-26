@@ -83,7 +83,7 @@ rosbag play YOUR_DOWNLOADED.bag
 </div>
 对于序列HIT_Graffiti_Wall_01，也是一个长走廊的序列，且路径比上面的序列更长，但却可以较好的回到原点，看似不是由于长走廊带来的drift吧~
 <div align="center">
-  <img src="./2025-01-26 13-20-12 的屏幕截图.png" width="80%" />
+  <img src="https://kwanwaipang.github.io/ubuntu_md_blog/fast_livo2_testing/2025-01-26 13-20-12 的屏幕截图.png" width="80%" />
 <figcaption>  
 </figcaption>
 </div>
