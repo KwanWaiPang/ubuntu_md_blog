@@ -62,7 +62,15 @@ rosbag play YOUR_DOWNLOADED.bag
 # 论文解读
 
 
+
+
+
+
+
+# 代码解读
+请见：[Fast-LIVO2代码解读](https://github.com/KwanWaiPang/Fast-LIVO2_comment)
+
+
 # 参考资料
 * [FAST-LIVO2 Github](https://github.com/hku-mars/FAST-LIVO2)
 * [paper link](https://arxiv.org/pdf/2408.14035)
-* [代码解读](https://github.com/KwanWaiPang/Fast-LIVO2_comment)
